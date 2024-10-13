@@ -1,0 +1,54 @@
+1.Sei uno studente universitario? 
+	(Per identificare l’utente)
+2.Da quanto tempo sei iscritto all’università? 
+	(Per capire lʼesperienza dell’utente rispetto all’ambiente universitario)
+
+3.Quale è l’ultima volta che sei venuto in presenza all’università? 
+	(Per capire se l’utente frequenta in modo costante l’università)
+
+4.Quanto tempo hai impiegato l’ultima volta per venire in università? 
+	(Per capire se gli risulta comodo venire in università)
+
+5.Quanto ti risulta complicato trovare uno spazio per studiare? 
+	(Per capire se ha bisogno di un’aula studio (da 1 (molto facile) … a 5 (molto difficile))  
+
+6.Qual è stata la fascia oraria in cui hai studiato l’ultima volta? 
+	(Per capire le abitudini dell’utente rispetto allo studio) 
+
+7.Sei mai stato in un’aula studio? 
+	(per capire lʼesperienza dell’utente rispetto all’argomento)
+	Se ha risposto SI:
+
+		a)Quand’è l’ultima volta che ci sei stato? 
+			(Per capire l’attualità delle risposte date)
+ 
+		b)Descrivi brevemente come hai individuato quell’aula studio (Es. Sito internet, Passaparola, ecc…)? 
+			(Per capire i mezzi che ha utilizzato per scoprire l’esistenza di questa aula (colleghi, siti internet, ecc)
+
+		c)Quanto è stato difficile trovare l’aula la prima volta in cui ci sei stato/a?  (da 1 (molto facile) … a 5 (molto difficile))
+			(Per capire se ha trovato difficoltà nell’individuare un’aula per studiare)
+
+		d)Con quanta difficoltà sei riuscito a trovare posto in aula? (da 1 (molto facile) … a 5 (molto difficile))
+			(Per capire l’affluenza delle aule studio) 
+
+		e)Quali sono i benefici che hai riscontrato nel frequentare un’aula studio rispetto ad altri luoghi di studio?
+			(Per capire cosa stimola l’utente nell’utilizzo delle aule studio)
+
+		f)Quali sono, invece, le mancanze che hai riscontrato nelle aule studio rispetto ad altri luoghi di studio? 
+			(Per identificare eventuali comfort che l’utente vorrebbe avere nelle aule studio rispetto ad altri luoghi di studio in cui sono presenti)
+
+		g)Come è stata la tua esperienza nell’aula studio? (da 1 (pessima) … a 5 (ottima))
+			(Per capire se l’utilizzo dell’aula studio ha soddisfatto l’utente) 
+
+		h)Consiglieresti ai tuoi colleghi l’utilizzo delle aule studio? 
+			(Per capire se, in generale, l’utente consiglierebbe, e quindi utilizzerebbe ancora, le aule studio)
+	Se ha risposto NO:	
+
+		a)Vorresti provare a utilizzare un’aula studio? 
+		(Per capire la propensione dell’utente)
+			 Se ha risposto SI:
+				1.Descrivi brevemente i principali motivi che ti limitano dall’utilizzare un’aula studio?
+
+			Se ha risposto NO:
+				a.Quali sono le ragioni principali che ti hanno portato a non utilizzarla?
+					(Per capire le motivazioni principali che portano un utente a non utilizzare le aule studio)
